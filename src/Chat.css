@@ -38,6 +38,7 @@
     padding: 10px;
     font-size: 16px;
     position: relative;
+    margin-bottom: 28px;
 }
 
 .chat__reciever{
@@ -98,4 +99,9 @@
 .chat__body::-webkit-scrollbar{
     width: 0;
     height: 0;
+}
+
+a{
+    text-decoration: none !important;
+    color: black;
 }
