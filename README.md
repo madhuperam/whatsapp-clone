@@ -9,3 +9,5 @@
 - React Context API
 - Redux
 - Google Authentication
+
+Credit: Clever Programmer
